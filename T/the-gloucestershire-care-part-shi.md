@@ -1,0 +1,275 @@
+﻿---
+- title: "Gloucestershire County Council - Expenses - January 2026 - Supplier Dossier: The Gloucestershire Care Part'shi"
+- entity_id: "The Gloucestershire Care Part'shi"
+- category: "Transparency"
+- recipe_id: "transparency/expenses"
+- recipe_version: "1.0.1"
+- generated_by: "ApiCrumbs_Foundry_v2"
+- last_updated: "2026-05-07T08:33:47+00:00"
+- status: "Grounded_Truth"
+- schema: "v2.0-Alpha"
+---
+
+# TRANSPARENCY REGISTRY
+## TRAIL: THE GLOUCESTERSHIRE CARE PART'SHI
+### GET /finance/supplier/financial-pulse
+- **Total Monthly Spend**: £2,123,945.58
+- **Invoice Frequency**: 600 payments processed
+- **Mean Transaction Value**: £3,539.91
+---
+- [CRUMB: transparency/expensessupplierfinancialpulse]
+- [SOURCE: payments-made-during-january-2026-csv.csv ]
+- [REF: Gloucestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.gloucestershire.gov.uk/media/u23fwuzo/payments-made-during-january-2026-csv.csv ]
+
+### GET /finance/supplier/fiscal-footprint-analysis
+- **Cumulative Spend**: £2,123,945.58
+- **Transaction Volume**: 600 Invoices
+- **Lead Department**: Commissioning Director - Adults
+- **Departmental Reach**: Active in 2 distinct cost centres.
+---
+- [CRUMB: transparency/expensessuppliertotalspend]
+- [SOURCE: payments-made-during-january-2026-csv.csv ]
+- [REF: Gloucestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.gloucestershire.gov.uk/media/u23fwuzo/payments-made-during-january-2026-csv.csv ]
+
+### GET /finance/supplier/sector-mix
+**Portfolio Diversity:** Operates across **2** distinct departments.
+
+| Intensity | Department | Revenue | Weight |
+| :--- | :--- | :--- | :--- |
+| `*****` | Commissioning Director - Adults | £2,119,331 | 99.8% |
+| `     ` | Balance Sheet | £4,615 | 0.2% |
+---
+- [CRUMB: transparency/expensessuppliersectormix]
+- [SOURCE: payments-made-during-january-2026-csv.csv ]
+- [REF: Gloucestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.gloucestershire.gov.uk/media/u23fwuzo/payments-made-during-january-2026-csv.csv ]
+
+### GET /finance/supplier/expenses-ledger
+- Paid £580.71 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £1016.24 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £1088.83 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £1088.83 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £1125.12 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £1125.12 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £1125.12 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £1125.12 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £1125.12 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £1125.12 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £1125.12 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £1125.12 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £1125.12 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £2385.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4526.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £-979.95 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4929.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £1125.12 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4929.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £-907.36 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4198.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4929.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £1908.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £2137.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £2226.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4110.71 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4770.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4929.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4929.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4929.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4929.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4929.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4929.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4929.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4929.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4929.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5097.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5097.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5097.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5097.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5097.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5097.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5097.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5097.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5097.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5097.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5097.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5097.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5097.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £-4929.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £-159.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £135.74 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3676.69 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3813.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3813.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4198.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4198.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4198.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4198.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4198.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4198.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4198.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4198.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £-2031.43 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4929.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £2620.71 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5416.14 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5097.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5097.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5097.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £1125.12 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5097.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £493.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5097.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5097.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4198.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4198.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4198.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4198.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £1125.12 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £1125.12 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £1125.12 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £1125.12 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £-3608.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5084.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5084.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5239.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4353.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5084.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5084.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5084.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5239.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5239.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5239.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5239.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5239.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5239.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4212.86 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4353.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4353.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4353.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4353.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4353.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4353.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4353.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4353.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4353.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4353.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4353.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4353.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4353.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3976.86 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3229.86 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3976.86 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4353.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3976.86 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3676.69 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4353.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3976.86 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5084.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £5239.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4131.86 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4353.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4353.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4353.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4353.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4353.29 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3401.14 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3401.14 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £1125.12 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3401.14 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3777.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3401.14 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4499.43 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4499.43 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4499.43 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4654.43 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4654.43 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £7741.14 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3777.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3777.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3777.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3777.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3777.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3777.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3777.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3777.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3412.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3401.14 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3401.14 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3401.14 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3401.14 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £70.06 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £131.36 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £135.74 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £135.74 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £135.74 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3401.14 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3401.14 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3401.14 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3401.14 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £-135.74 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £-135.74 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £-131.36 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £-70.06 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3777.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3777.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3777.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4614.57 to The Gloucestershire Care Part'shi (Balance Sheet)
+- Paid £-146.14 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4614.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £1125.12 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4614.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £-181.47 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4614.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3525.14 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4614.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3923.71 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £-2530.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4614.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4614.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4800.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4800.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4800.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £-4316.86 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3923.71 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3923.71 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3923.71 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3923.71 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3525.14 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3525.14 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3525.14 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3525.14 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3525.14 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £186.00 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £3923.71 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £4800.57 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £35.03 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £48.16 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+- Paid £74.44 to The Gloucestershire Care Part'shi (Commissioning Director - Adults)
+---
+- [CRUMB: transparency/expensessupplierledger]
+- [SOURCE: payments-made-during-january-2026-csv.csv ]
+- [REF: Gloucestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.gloucestershire.gov.uk/media/u23fwuzo/payments-made-during-january-2026-csv.csv ]
+
+###  GET /finance/supplier/daily-breakdown
+####  Monthly Activity Timeline
+
+| Date | Volume | Total Paid | Intensity |
+| :--- | :--- | :--- | :--- |
+|  `06/01/2026` | 599 | £2,094,494.72 | `*****` |
+| `21/01/2026` | 1 | £29,450.86 | `     ` |
+---
+- [CRUMB: transparency/expensessupplierdailybreakdown]
+- [SOURCE: payments-made-during-january-2026-csv.csv ]
+- [REF: Gloucestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.gloucestershire.gov.uk/media/u23fwuzo/payments-made-during-january-2026-csv.csv ]
+
+---
+Generated via ApiCrumbs Foundry. Visit https://apicrumbs.com for real-time updates.
