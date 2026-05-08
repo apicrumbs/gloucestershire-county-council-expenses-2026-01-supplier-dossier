@@ -1,0 +1,276 @@
+﻿---
+- title: "Gloucestershire County Council - Expenses - January 2026 - Supplier Dossier: Comfort Call Ltd"
+- entity_id: "Comfort Call Ltd"
+- category: "Transparency"
+- recipe_id: "transparency/expenses"
+- recipe_version: "1.0.1"
+- generated_by: "ApiCrumbs_Foundry_v2"
+- last_updated: "2026-05-08T11:10:35+00:00"
+- status: "Grounded_Truth"
+- schema: "v2.0-Alpha"
+---
+
+# TRANSPARENCY REGISTRY
+## TRAIL: COMFORT CALL LTD
+### GET /finance/supplier/financial-pulse
+- **Total Monthly Spend**: £260,552.50
+- **Invoice Frequency**: 292 payments processed
+- **Mean Transaction Value**: £892.30
+---
+- [CRUMB: transparency/expensessupplierfinancialpulse]
+- [SOURCE: payments-made-during-january-2026-csv.csv ]
+- [REF: Gloucestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.gloucestershire.gov.uk/media/u23fwuzo/payments-made-during-january-2026-csv.csv ]
+
+### GET /finance/supplier/fiscal-footprint-analysis
+- **Cumulative Spend**: £260,552.50
+- **Transaction Volume**: 292 Invoices
+- **Lead Department**: Commissioning Director - Adults
+- **Departmental Reach**: Active in 1 distinct cost centres.
+---
+- [CRUMB: transparency/expensessuppliertotalspend]
+- [SOURCE: payments-made-during-january-2026-csv.csv ]
+- [REF: Gloucestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.gloucestershire.gov.uk/media/u23fwuzo/payments-made-during-january-2026-csv.csv ]
+
+### GET /finance/supplier/sector-mix
+**Portfolio Diversity:** Operates across **1** distinct departments.
+
+| Intensity | Department | Revenue | Weight |
+| :--- | :--- | :--- | :--- |
+| `*****` | Commissioning Director - Adults | £260,553 | 100.0% |
+---
+- [CRUMB: transparency/expensessuppliersectormix]
+- [SOURCE: payments-made-during-january-2026-csv.csv ]
+- [REF: Gloucestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.gloucestershire.gov.uk/media/u23fwuzo/payments-made-during-january-2026-csv.csv ]
+
+### GET /finance/supplier/expenses-ledger
+- Paid £1886.63 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £2054.33 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £684.78 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £4815.44 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £1118.00 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £2641.28 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £2347.80 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £1593.16 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £1320.64 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £1131.98 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £964.28 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £922.35 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £922.35 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £880.43 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £782.60 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £782.60 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £733.69 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £670.80 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £586.95 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £586.95 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £586.95 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £531.06 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £440.22 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £440.21 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £377.33 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £321.43 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £307.45 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £307.45 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £293.48 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £244.56 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £195.65 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £195.65 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £195.65 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £146.74 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £97.83 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £2347.80 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £782.60 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £1924.23 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £641.41 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £2474.01 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £824.67 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £769.34 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £687.23 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £256.45 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £229.08 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £4815.44 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £1047.20 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £1583.89 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £962.12 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £863.94 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £628.32 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £628.32 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £549.78 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £475.85 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £392.70 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £320.71 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £274.89 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £209.44 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £183.26 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £183.26 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £158.62 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £143.99 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £143.99 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £130.90 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £91.63 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £26.18 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £-4031.72 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £-1439.90 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £1256.64 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £418.88 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £641.79 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £213.93 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £35.66 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £106.97 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £221.72 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £225.82 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £297.13 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £665.17 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £677.45 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £891.38 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £4815.44 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £950.80 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £3066.33 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £2888.06 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £2816.75 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £1640.14 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £1247.93 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £1194.44 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £1022.11 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £962.69 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £938.92 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £651.98 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £641.79 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £623.96 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £590.85 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £3.40 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £124.80 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £162.99 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £166.39 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £207.99 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £213.93 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £374.38 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £398.15 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £415.98 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £499.17 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £-47.54 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £-47.54 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £748.76 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £249.59 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £-1497.51 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £-855.72 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £9928.80 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £17451.84 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.08 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £161.66 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £170.19 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.01 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £82.87 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £86.66 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.04 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £363.58 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £506.41 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £1457.55 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £-36.72 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £200.61 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £393.66 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £518.82 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £714.18 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.27 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £130.29 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £156.96 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £259.70 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £796.57 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £861.10 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £1161.94 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £1633.69 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £-12.47 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £-0.02 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £-0.02 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £148.08 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £370.18 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.20 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £56.13 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £320.49 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £2093.12 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £2289.89 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £3444.25 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £1497.66 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.01 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.02 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.03 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.05 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.08 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.16 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.23 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.25 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.29 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.46 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.52 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.78 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £167.39 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £241.37 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £249.84 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £283.93 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £288.28 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £700.76 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £815.55 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £869.73 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £951.00 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £1064.20 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £2812.48 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £-226.39 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £51.94 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £5201.28 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £1098.22 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.07 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £1327.27 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £9928.80 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £17451.84 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.03 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £130.42 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £201.50 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.01 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.01 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £363.58 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £492.57 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £1430.08 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £-11.58 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.01 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £235.25 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £287.64 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £646.12 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.18 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £0.46 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £126.39 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £142.14 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £510.12 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £607.70 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £812.26 to Comfort Call Ltd (Commissioning Director - Adults)
+- Paid £1199.00 to Comfort Call Ltd (Commissioning Director - Adults)
+---
+- [CRUMB: transparency/expensessupplierledger]
+- [SOURCE: payments-made-during-january-2026-csv.csv ]
+- [REF: Gloucestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.gloucestershire.gov.uk/media/u23fwuzo/payments-made-during-january-2026-csv.csv ]
+
+###  GET /finance/supplier/daily-breakdown
+####  Monthly Activity Timeline
+
+| Date | Volume | Total Paid | Intensity |
+| :--- | :--- | :--- | :--- |
+|  `12/01/2026` | 177 | £145,318.33 | `*****` |
+| `13/01/2026` | 2 | £27,380.64 | `*    ` |
+| `14/01/2026` | 57 | £31,627.21 | `*    ` |
+| `30/01/2026` | 56 | £56,226.32 | `**   ` |
+---
+- [CRUMB: transparency/expensessupplierdailybreakdown]
+- [SOURCE: payments-made-during-january-2026-csv.csv ]
+- [REF: Gloucestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.gloucestershire.gov.uk/media/u23fwuzo/payments-made-during-january-2026-csv.csv ]
+
+---
+Generated via ApiCrumbs Foundry. Visit https://apicrumbs.com for real-time updates.
