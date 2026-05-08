@@ -1,0 +1,275 @@
+﻿---
+- title: "Gloucestershire County Council - Expenses - January 2026 - Supplier Dossier: Aspects2 Ltd"
+- entity_id: "Aspects2 Ltd"
+- category: "Transparency"
+- recipe_id: "transparency/expenses"
+- recipe_version: "1.0.1"
+- generated_by: "ApiCrumbs_Foundry_v2"
+- last_updated: "2026-05-08T09:09:55+00:00"
+- status: "Grounded_Truth"
+- schema: "v2.0-Alpha"
+---
+
+# TRANSPARENCY REGISTRY
+## TRAIL: ASPECTS2 LTD
+### GET /finance/supplier/financial-pulse
+- **Total Monthly Spend**: £473,012.91
+- **Invoice Frequency**: 200 payments processed
+- **Mean Transaction Value**: £2,365.06
+---
+- [CRUMB: transparency/expensessupplierfinancialpulse]
+- [SOURCE: payments-made-during-january-2026-csv.csv ]
+- [REF: Gloucestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.gloucestershire.gov.uk/media/u23fwuzo/payments-made-during-january-2026-csv.csv ]
+
+### GET /finance/supplier/fiscal-footprint-analysis
+- **Cumulative Spend**: £473,012.91
+- **Transaction Volume**: 200 Invoices
+- **Lead Department**: Commissioning Director - Adults
+- **Departmental Reach**: Active in 2 distinct cost centres.
+---
+- [CRUMB: transparency/expensessuppliertotalspend]
+- [SOURCE: payments-made-during-january-2026-csv.csv ]
+- [REF: Gloucestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.gloucestershire.gov.uk/media/u23fwuzo/payments-made-during-january-2026-csv.csv ]
+
+### GET /finance/supplier/sector-mix
+**Portfolio Diversity:** Operates across **2** distinct departments.
+
+| Intensity | Department | Revenue | Weight |
+| :--- | :--- | :--- | :--- |
+| `*****` | Commissioning Director - Adults | £460,123 | 97.3% |
+| `     ` | Balance Sheet | £12,890 | 2.7% |
+---
+- [CRUMB: transparency/expensessuppliersectormix]
+- [SOURCE: payments-made-during-january-2026-csv.csv ]
+- [REF: Gloucestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.gloucestershire.gov.uk/media/u23fwuzo/payments-made-during-january-2026-csv.csv ]
+
+### GET /finance/supplier/expenses-ledger
+- Paid £40.80 to Aspects2 Ltd (Balance Sheet)
+- Paid £-2.62 to Aspects2 Ltd (Balance Sheet)
+- Paid £1464.79 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £1401.04 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £1018.18 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £980.83 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £825.53 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £817.26 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £693.83 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £583.56 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £113.48 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £2355.02 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £2355.25 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £1.81 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £8.60 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £22.41 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £22.56 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £24.15 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £26.41 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £48.56 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £69.19 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £94.35 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £221.04 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £530.38 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £547.87 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-0.50 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-2.40 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-7.63 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-18.67 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-20.75 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-20.85 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-24.43 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-92.90 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-525.12 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-545.93 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-582.11 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-691.97 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-809.17 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-816.23 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-969.15 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-1002.19 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-1363.59 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-1421.53 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-2278.45 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-2278.68 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £2123.61 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £1236.83 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £50.79 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £24.35 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £23.85 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.48 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-22.40 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-22.41 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-1406.82 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-2054.47 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £6858.67 to Aspects2 Ltd (Balance Sheet)
+- Paid £-0.02 to Aspects2 Ltd (Balance Sheet)
+- Paid £851.06 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £908.16 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £1340.57 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £1847.62 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £2570.71 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £2984.21 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £3094.74 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £3094.74 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £3094.74 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £3094.74 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £3094.74 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £5201.28 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £5201.28 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £5861.76 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £7430.40 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £7864.18 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £8421.12 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £10402.56 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £11764.10 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £14943.36 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £17308.01 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £28318.08 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.01 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.04 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.09 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £613.35 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £12711.83 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £12817.10 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £18313.58 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.01 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.01 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.02 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.02 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.02 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £795.67 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £617.82 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £597.18 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £577.92 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £577.92 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £561.71 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £412.80 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £330.24 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £330.24 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £303.06 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £247.68 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £243.89 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £165.12 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.03 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.02 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-0.01 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-0.18 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-0.18 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-0.18 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-0.18 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-0.18 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-0.18 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-0.17 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.03 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.03 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £82.56 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £330.24 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £8343.72 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £8666.39 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £11277.02 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-0.20 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £380.12 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £563.82 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £743.04 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.01 to Aspects2 Ltd (Balance Sheet)
+- Paid £5993.51 to Aspects2 Ltd (Balance Sheet)
+- Paid £908.16 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £1492.62 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £1536.65 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £1738.23 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £2159.63 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £2873.68 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £2984.21 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £3094.74 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £3094.74 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £3094.74 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £3094.74 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £5201.28 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £5201.28 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £5861.76 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £7064.38 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £7815.34 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £8421.12 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £10216.80 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £11762.42 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £13631.34 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £16942.00 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £28159.50 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.04 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.10 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £573.10 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £12832.91 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £13003.20 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £18714.53 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.01 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.01 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.01 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.02 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.02 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.03 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.03 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £822.85 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £645.34 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £592.03 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £577.92 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £514.54 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £512.91 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £453.74 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £392.16 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £330.24 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £328.52 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £299.27 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £247.68 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £185.76 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £123.84 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.06 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.04 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-0.18 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-0.18 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-0.18 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-0.18 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-0.17 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-0.17 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-0.16 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-0.03 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-0.02 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £0.01 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £82.56 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £82.56 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £247.68 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £1483.33 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £8482.70 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £8759.38 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £11754.25 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-0.21 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £-0.01 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £407.64 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £577.92 to Aspects2 Ltd (Commissioning Director - Adults)
+- Paid £743.04 to Aspects2 Ltd (Commissioning Director - Adults)
+---
+- [CRUMB: transparency/expensessupplierledger]
+- [SOURCE: payments-made-during-january-2026-csv.csv ]
+- [REF: Gloucestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.gloucestershire.gov.uk/media/u23fwuzo/payments-made-during-january-2026-csv.csv ]
+
+###  GET /finance/supplier/daily-breakdown
+####  Monthly Activity Timeline
+
+| Date | Volume | Total Paid | Intensity |
+| :--- | :--- | :--- | :--- |
+|  `08/01/2026` | 125 | £236,899.54 | `*****` |
+| `29/01/2026` | 75 | £236,113.37 | `*****` |
+---
+- [CRUMB: transparency/expensessupplierdailybreakdown]
+- [SOURCE: payments-made-during-january-2026-csv.csv ]
+- [REF: Gloucestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.gloucestershire.gov.uk/media/u23fwuzo/payments-made-during-january-2026-csv.csv ]
+
+---
+Generated via ApiCrumbs Foundry. Visit https://apicrumbs.com for real-time updates.
