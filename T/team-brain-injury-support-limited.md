@@ -1,0 +1,78 @@
+﻿---
+- title: "Gloucestershire County Council - Expenses - January 2026 - Supplier Dossier: Team Brain Injury Support Limited"
+- entity_id: "Team Brain Injury Support Limited"
+- category: "Transparency"
+- recipe_id: "transparency/expenses"
+- recipe_version: "1.0.1"
+- generated_by: "ApiCrumbs_Foundry_v2"
+- last_updated: "2026-05-12T10:09:42+00:00"
+- status: "Grounded_Truth"
+- schema: "v2.0-Alpha"
+---
+
+# TRANSPARENCY REGISTRY
+## TRAIL: TEAM BRAIN INJURY SUPPORT LIMITED
+### GET /finance/supplier/financial-pulse
+- **Total Monthly Spend**: £89,113.44
+- **Invoice Frequency**: 5 payments processed
+- **Mean Transaction Value**: £17,822.69
+---
+- [CRUMB: transparency/expensessupplierfinancialpulse]
+- [SOURCE: payments-made-during-january-2026-csv.csv ]
+- [REF: Gloucestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.gloucestershire.gov.uk/media/u23fwuzo/payments-made-during-january-2026-csv.csv ]
+
+### GET /finance/supplier/fiscal-footprint-analysis
+- **Cumulative Spend**: £89,113.44
+- **Transaction Volume**: 5 Invoices
+- **Lead Department**: Commissioning Director - Adults
+- **Departmental Reach**: Active in 1 distinct cost centres.
+---
+- [CRUMB: transparency/expensessuppliertotalspend]
+- [SOURCE: payments-made-during-january-2026-csv.csv ]
+- [REF: Gloucestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.gloucestershire.gov.uk/media/u23fwuzo/payments-made-during-january-2026-csv.csv ]
+
+### GET /finance/supplier/sector-mix
+**Portfolio Diversity:** Operates across **1** distinct departments.
+
+| Intensity | Department | Revenue | Weight |
+| :--- | :--- | :--- | :--- |
+| `*****` | Commissioning Director - Adults | £89,113 | 100.0% |
+---
+- [CRUMB: transparency/expensessuppliersectormix]
+- [SOURCE: payments-made-during-january-2026-csv.csv ]
+- [REF: Gloucestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.gloucestershire.gov.uk/media/u23fwuzo/payments-made-during-january-2026-csv.csv ]
+
+### GET /finance/supplier/expenses-ledger
+- Paid £39688.32 to Team Brain Injury Support Limited (Commissioning Director - Adults)
+- Paid £9573.12 to Team Brain Injury Support Limited (Commissioning Director - Adults)
+- Paid £9829.44 to Team Brain Injury Support Limited (Commissioning Director - Adults)
+- Paid £22935.36 to Team Brain Injury Support Limited (Commissioning Director - Adults)
+- Paid £7087.20 to Team Brain Injury Support Limited (Commissioning Director - Adults)
+---
+- [CRUMB: transparency/expensessupplierledger]
+- [SOURCE: payments-made-during-january-2026-csv.csv ]
+- [REF: Gloucestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.gloucestershire.gov.uk/media/u23fwuzo/payments-made-during-january-2026-csv.csv ]
+
+###  GET /finance/supplier/daily-breakdown
+####  Monthly Activity Timeline
+
+| Date | Volume | Total Paid | Intensity |
+| :--- | :--- | :--- | :--- |
+|  `19/01/2026` | 5 | £89,113.44 | `*****` |
+---
+- [CRUMB: transparency/expensessupplierdailybreakdown]
+- [SOURCE: payments-made-during-january-2026-csv.csv ]
+- [REF: Gloucestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.gloucestershire.gov.uk/media/u23fwuzo/payments-made-during-january-2026-csv.csv ]
+
+---
+Generated via ApiCrumbs Foundry. Visit https://apicrumbs.com for real-time updates.
